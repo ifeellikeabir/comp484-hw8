@@ -1,6 +1,7 @@
-# COMP 484 - Homework 7
+# COMP 484 - Homework 8
 
-This is my Homework 7 resume website for COMP 484.
+This is my Homework 8 resume website for COMP 484.
 
 ## Live Website
-https://ifeellikeabir.github.io/comp484-hw7/
+
+[View My Live Website](https://ifeellikeabir.github.io/comp484-hw8/)
