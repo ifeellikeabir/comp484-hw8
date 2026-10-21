@@ -120,14 +120,8 @@ header::after {
 
 /* Work Experience
 ------------------------------------*/
-section {
-    background:
-        linear-gradient(
-            rgba(168, 218, 220, 0.85),
-            rgba(69, 123, 157, 0.85)
-        ),
-        url("../images/background.jpg");
-
+#education {
+    background-image: url("../images/background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -137,9 +131,9 @@ section {
 
 /* Education
 ------------------------------------*/
-section:last-of-type {
-    background-color: #5d8ac9;
-    color: #0f080c;
+#education {
+    color: white;
+    text-shadow: 2px 2px 4px black;
 }
 footer a {
     color: #51888c;
